@@ -1,3 +1,10 @@
+# Pré-requisitos
+Antes de começar, certifique-se de ter o seguinte instalado
+
+PHP (7.4 ou superior)
+Compositor
+Laravel
+
 # Instalação
 
 ## Clone o repositório
