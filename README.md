@@ -27,7 +27,7 @@ Para procurar outro usuário, basta retornar à página inicial clicando no link
 ## Sobre o codigo!
 
 Utilizando o laravel e seu MVC, usei a criação de rotas para assim ter acesso a uma classe com metodos e views.
-nessas rotas utilizando s solicitação HTTP (como GET, POST)  responde a redirecionamento que deve executar para os metodos de um controlador,
+nessas rotas utilizando s solicitação HTTP (como GET, POST) responde a redirecionamento que deve executar para os metodos de um controlador nesse caso trabalhei com a rota web.php,
 
 Por sua vez essa controller no caso GithubUserController contém funções especificas para cada ação: index() que retorna uma view chamada,
 
